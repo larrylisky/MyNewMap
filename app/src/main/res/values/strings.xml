@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNewMap</string>
+    <string name="access_token">Your_token_here</string>
+</resources>
